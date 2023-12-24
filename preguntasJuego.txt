@@ -1,0 +1,39 @@
+
+Tema 3
+¿En color cuanto ocupa un pixel?
+-1 byte
+-2 byte
+-3 byte *
+-4 byte
+
+¿Que NO es una clasificación de CODECs?
+-De acuerdo con los fundamentos de algoritmos
+-De acuerdo con la naturaleza de los datos
+-De acuerdo a la propiedad de los mismos
+-Todas son correctas *
+
+¿Que compresión de estas tiene pérdidas?
+-RAR
+-.BMP
+-PNG  *
+-.WAV
+
+Tema 5
+¿Que NO es una característica de internet?
+-No tiene una cabeza central
+-Gran parte de su infraestructura es privdada *
+-Gran parte de su infraestructura es pública
+-Es una red mundial de redes de ordenadores
+
+¿Que caracteriza las redes P2P?
+-Cada jugador se conecta con el servidor
+-Los requisitos disminuyen a más gente haya
+-Pocos datos transmitidos entre clientes 
+-Los jugadores se conectan con el resto de jugadores*
+
+¿Que protocolo sirve para cceder a páginas web en modo seguro?
+-HTTPS*
+-HTTP
+-FTP
+-TELMET
+
